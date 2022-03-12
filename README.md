@@ -17,13 +17,6 @@ Spotify: Setnour6
 Email: set.nour6@gmail.com
 PayPal (Donate): https://www.paypal.com/paypalme/setnour
 ~~~~~~
-Version 1.0.1.0
-- Added Master Mode Relic Recipes for the Vitality Mod.
-- Eater of Worlds' Relic recipe now requires a burger instead of worm teeth.
-- Fixed an issue where the mod icon wouldn't show up.
-
-To Do:
-- Add more mods to support.
 
 Also check out Craftable Treasure Bags: https://steamcommunity.com/sharedfiles/filedetails/?id=2704343490
 
