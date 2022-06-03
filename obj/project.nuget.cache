@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P4m/ROENpiN9//2A/Ya+GXw0XvbTxCxngroPgJ3ScV9Jn59ewyHnHvWpGcusbv2OzOS/uoo6k5NwtED6X6aALg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\setno\\Documents\\My Games\\Terraria\\ModLoader\\Beta\\Mod Sources\\CraftableMasterModeRelics\\CraftableMasterModeRelics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\setno\\.nuget\\packages\\tmodloader.codeassist\\0.1.3\\tmodloader.codeassist.0.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
