@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CraftableMasterModeRelics")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b55ec96c0970ebec87c5f8aadb6d5b46c8f673f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CraftableMasterModeRelics")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CraftableMasterModeRelics")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
